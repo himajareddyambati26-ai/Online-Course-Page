@@ -1,0 +1,51 @@
+Test Case 1
+
+Action:
+Open index.html in a web browser.
+
+Expected Output:
+The Python course page should be displayed.
+
+
+----------------------------------------
+
+Test Case 2
+
+Action:
+Check the "What You Will Learn" section.
+
+Expected Output:
+Python topics should be displayed as a numbered list.
+
+
+----------------------------------------
+
+Test Case 3
+
+Action:
+Check the Course Schedule.
+
+Expected Output:
+The six-week course schedule should be displayed in a table.
+
+
+----------------------------------------
+
+Test Case 4
+
+Action:
+Enter a name and email in the registration form.
+
+Expected Output:
+The entered information should be accepted.
+
+
+----------------------------------------
+
+Test Case 5
+
+Action:
+Click Register without entering the required name.
+
+Expected Output:
+The browser should ask the user to enter the required field.
